@@ -12,4 +12,3 @@
 
 ![](https://raw.githubusercontent.com/Nikita7181/Report_lab05/master/Screenshots/4.png)
 
-### *Homework*
