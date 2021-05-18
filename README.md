@@ -90,16 +90,6 @@ tools/polly/bin/polly.py --install
 tools/polly/bin/polly.py --toolchain clang-cxx14
 ```
 
-
-- После чего все было выгружено на Git hub
-
-```
-cd /home/nikita/Nikita7181/workspace/projects/Report_lab06
-git add .
-git commit -m "Complete tasks"
-git push origin master
-```
-
 - Резултат выполнения команд
 
 ![](https://raw.githubusercontent.com/Nikita7181/Report_lab07/master/Screenshots/1.png)
