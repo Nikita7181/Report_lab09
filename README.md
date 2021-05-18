@@ -7,7 +7,7 @@
 ![Туториал](https://github.com/Nikita7181/lab07)
 
 ```
-export GITHUB_USERNAME=Alex1505Gold
+export GITHUB_USERNAME=Nikita7181
 alias gsed=sed
 cd ${GITHUB_USERNAME}/workspace
 pushd .
