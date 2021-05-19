@@ -8,8 +8,8 @@
 
 ```
 export GITHUB_TOKEN=мой токен
-export GITHUB_USERNAME=Alex1505Gold
-export PACKAGE_MANAGER=apt-get
+export GITHUB_USERNAME=Nikita7181
+export PACKAGE_MANAGER=pacman
 export GPG_PACKAGE_NAME=gpg
 $PACKAGE_MANAGER install xclip
 alias gsed=sed
